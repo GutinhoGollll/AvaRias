@@ -57,4 +57,43 @@ body
     }
 }
 
+h2
+
+
+{color:red;
+
+
+text-align: center;}
+
+.produtos li {
+    display: inline-block;
+    text-align: center;
+    width:20%;
+    vertical-align: top;
+    background: #CCCCCC;
+    margin: 0 1.5%;
+    padding: 25px 20px;
+    box-sizing:border-box;
+    border-color:#000000;
+    border-width: 2px;
+    border-style: solid;
+    border-radius:10px;
+}
+
+.produtos li:hover {
+    border-color: #C78C19;
+}
+
+
+
+button {
+  font-size: 18px;
+  font-weight: 400;
+  background-color: aqua;
+  border-radius: 10px;
+  border: 0;
+  padding: 10px 40px;
+  cursor: pointer;
+}
+
 
