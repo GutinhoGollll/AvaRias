@@ -1,36 +1,45 @@
-
 <!DOCTYPE html>
 <head>
- <html lang="pt-br">
- <meta charset="UTF-8">
- <title> FREZAAAAAA </title>
- <link rel="stylesheet" href="style.css">
-</head>        
-           <body>
+<html lang="pt-br">
+<meta charset="UTF-8">
+<title> FREZAAAAAA </title>
+<link rel="stylesheet" href="style.css">
+</head>       
+          <body>
 
 
-               <h1><big><center>Com o Combo+, você pode aproveitar a Alura+ e o Alura Língua por um preço único.
-                Assine por 12x de R$ 120,00*
-                Assinar somente o Alura+
-                *O preço pode variar caso a assinatura seja feita em outros planosa tela grande da TV ou assista no tablet, laptop, celular e outros aparelhos. Nossa seleção de cursos não para de crescer.</center></big> </h1>
-                <img src="https://lh3.googleusercontent.com/drive-storage/AJQWtBNTyyhI1neUXPXi7lEDQ7SnLHSK8qmMxUFEklO9XqWtjPpBashbX6TwU2DgOLc7DLMDVkda8XDaRQiGrGqXs_Tr0Mtmog-ALdSK9ZcDvKvH9os=w1905-h971">
-                <img scr="https://lh3.googleusercontent.com/drive-storage/AJQWtBNhrv98gtuC7H9JxdQV7r3btjDU_KqE_AyjvlFK2spWCpeMX0Jh_wdwXKpxS_c5Hyy6v2_1J7XuvVA21ZH40xRfzU4naKzC3-_yP8Ro8XvjEZI=w1905-h971">
-               
-     <p>apenas alguns dos milhares de filmes do site majestoso alura+</strong></p>
-      <a href="https://www.adorocinema.com/filmes/filme-1628/" ></href><img class="thumbnail-img" src="https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/90/93/20/20120876.jpg" alt=" O Poderoso Chefão" width="310" height="420"> </a>
-    <p>
-         Don Vito Corleone (Marlon Brando) é o chefe de uma "família" de Nova York que está feliz, pois Connie (Talia Shire), sua filha, se casou com Carlo (Gianni Russo). Porém, durante a festa, Bonasera  (Salvatore Corsitto) é visto no escritório de Don Corleone pedindo "justiça", vingança na verdade contra membros de uma quadrilha, que espancaram ...
-         </p>
-         <div class="meta-body-item meta-body-info">
-             2h 55min
-             <span class="spacer">|</span>
-             <a class="xXx" clas="dark-grey-link" href="/filmes-todos/genero-13018/">Policial</a>,
-           <a class="xXx" clas="dark-grey-link" href="/filmes-todos/genero-13008/">Drama</a>
-             </div>
-           
-           
-           
-            <center><a   href="https://www.alura.com.br/"><button>link para combo+ da alura</button></a></center>
+
+
+              <h1><big><center>Com o Combo+, você pode aproveitar a Alura+ e o Alura Língua por um preço único.
+               Assine por 12x de R$ 120,00*
+               Assinar somente o Alura+
+               *O preço pode variar caso a assinatura seja feita em outros planosa tela grande da TV ou assista no tablet, laptop, celular e outros aparelhos. Nossa seleção de cursos não para de crescer.</center></big> </h1>
+               <img src="https://lh3.googleusercontent.com/drive-storage/AJQWtBMiK9ORytpO28m4VvAmNL0hbYgXefqlBODw63MfVrjFSpQJWU3MNdqBlVFcq-w5mo0ljNN9AbpdEGQZf87tkE_iUK8RbSmmCdXmm6iawucHH58=w1905-h975">
+               <img scr="https://lh3.googleusercontent.com/drive-storage/AJQWtBNp7j-V90-HMcgpn-n5oCCPUj0B14w148U02itfK_2WcJVcaNkT25HaFQQbYbOqujgGDvTSDBkmG0RaRDJN4KwYSwn-_-8t8OHj_2JuU3Q5SPI=w1905-h975">
+             
+    <p>apenas alguns dos milhares de filmes do site majestoso alura+</strong></p>
+     <a href="https://www.adorocinema.com/filmes/filme-1628/" ></href><img class="thumbnail-img" src="https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/90/93/20/20120876.jpg" alt=" O Poderoso Chefão" > </a>
+   <p>
+        Don Vito Corleone (Marlon Brando) é o chefe de uma "família" de Nova York que está feliz, pois Connie (Talia Shire), sua filha, se casou com Carlo (Gianni Russo). Porém, durante a festa, Bonasera  (Salvatore Corsitto) é visto no escritório de Don Corleone pedindo "justiça", vingança na verdade contra membros de uma quadrilha, que espancaram ...
+        </p>
+        <div class="meta-body-item meta-body-info">
+            <span class="spacer">|</span>
+            <a class="xXx" clas="dark-grey-link" href="/filmes-todos/genero-13018/">Policial</a>,
+          <a class="xXx" clas="dark-grey-link" href="/filmes-todos/genero-13008/">Drama</a>
+            </div>
+         
+         
+         
+           <center><a   href="https://www.alura.com.br/"><button>link para combo+ da alura</button></a></center>
+           <img src="https://upload.wikimedia.org/wikipedia/pt/9/97/BackFuturePoster.jpg">
+
+
+           <p>Back to the Future (bra: De Volta para o Futuro[3]; prt: Regresso ao Futuro[5]) é um filme norte-americano de 1985. Foi dirigido por Robert Zemeckis e escrito por Zemeckis e Bob Gale. Estrelado por Michael J. Fox, Christopher Lloyd, Lea Thompson, Crispin Glover e Thomas F. Wilson. O filme conta a história de Marty McFly (Michael J. Fox), um adolescente que inevitavelmente volta no tempo até 1955
+
+
+           </p>
+
+
 
 
 css
@@ -43,15 +52,7 @@ body
 
 
 
-
-
-
-
-
-
-
-
-{background: #2F4F4F}
+{background: hwb(0 0% 100%)}
 
 
 
@@ -61,9 +62,9 @@ body
 
 
 .fcc-btn {
-  background-color: #199319;
-  color: white;
-  padding: 15px 25px;
+ background-color: hwb(120 16% 24%);
+ color: white;
+ padding: 15px 25px;
 }
 p
 
@@ -74,19 +75,40 @@ p
 
 
 
-{text-align: center;}
+
+
+
+
+
+
+
+
+{text-align: center;
+color: hsl(180, 100%, 97%);}
+
+
 
 
 h1{
-   background-color: brown;
+  background-color: brown;
 }
+
+
+
+
 
 
 
 
 img{
-   border-image: fill;
+  border-image: fill;
 }
+
+
+
+
+ 
+
 
 
  
