@@ -1,52 +1,38 @@
-css
-body
 
-
-
-
-
-
-
-
-{background: hwb(0 0% 100%)}
-
-
-
-
-
-
-
-
-.fcc-btn {
- background-color: hwb(120 16% 24%);
- color: white;
- padding: 15px 25px;
+.container {
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 50% 50%;
 }
-p
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-{text-align: center;
-color: hsl(180, 100%, 97%);}
-
-
-
-
-h1{
-  background-color: brown;
+.principal {
+    background-image: url(https://aluraplus-three.vercel.app/img/Background.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    align-items: center;
+    text-align: center;
+}
+* {
+    margin: 0;
+    padding: 0;
+}
+user agent stylesheet
+section {
+    display: block;
+}
+body {
+    background-color: var(--cor-de-fundo);
+    color: var(--branco-principal);
+    font-family: var(--fonte-principal);
+    font-size: 16px;
+    font-weight: 400;
+}
+:root {
+    --branco-principal: #FFFFFF;
+    --cinza-secundario: #C0C0C0;
+    --botao-azul: #167BF7;
+    --cor-de-fundo: #00030C;
+    --fonte-principal: 'Inter';
+    --botao-azul-efeito: #3c92fa;
 }
 
 
@@ -54,16 +40,6 @@ h1{
 
 
 
-
-
-img{
-  border-image: fill;
-}
-
-
-
-
- 
 
 
 
